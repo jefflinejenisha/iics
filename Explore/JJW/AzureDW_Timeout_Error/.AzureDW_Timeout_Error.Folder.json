@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "1vBKkS3P4uOkf7Lu8ZV1kV",
+    "name" : "AzureDW_Timeout_Error",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
