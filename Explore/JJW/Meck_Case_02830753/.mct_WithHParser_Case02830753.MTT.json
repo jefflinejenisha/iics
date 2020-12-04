@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Test Description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -80,7 +80,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Test Description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

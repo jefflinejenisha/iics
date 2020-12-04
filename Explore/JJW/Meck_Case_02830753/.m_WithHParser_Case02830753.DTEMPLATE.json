@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Test Description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -35,10 +35,7 @@
       "repoInfo" : {
         "repoHandle" : "000QML3600000000000D"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
